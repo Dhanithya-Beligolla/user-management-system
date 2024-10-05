@@ -151,7 +151,7 @@ if ($conn->connect_error) {
 - Users can view and update their profiles and change their password.
   
 ### 3. Editing Profiles:
-_Users can edit their name, email, and phone number. They can also change their password by clicking the "Change Password" button.
+- Users can edit their name, email, and phone number. They can also change their password by clicking the "Change Password" button.
 
 ### 4. Resetting Passwords (Admin Only):
 - Admins can reset any user's password from the View All Users page.
