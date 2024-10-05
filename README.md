@@ -7,13 +7,14 @@ Admins can view, edit, and reset user passwords, as well as manage other admins.
 ## Table of Contents
 
 - [Features](#features)
+- [Project Stucture](#project-structure)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Database Structure](#database-structure)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Database Setup](#database-setup)
+- [Project Setup](#project-setup)
+- [Run the project](#run-the-project)
+
 
 ## Features
 
@@ -33,6 +34,10 @@ Admins can view, edit, and reset user passwords, as well as manage other admins.
 - Passwords are hashed for security
 - Users cannot view or edit other users’ data
 - Only admins have access to user management
+
+## Project Structure
+
+![image](https://github.com/user-attachments/assets/76af4b9b-d331-447f-993c-fdaa3fc7a445)
 
 ## Prerequisites
 
@@ -150,8 +155,6 @@ _Users can edit their name, email, and phone number. They can also change their 
 
 ### 4. Resetting Passwords (Admin Only):
 - Admins can reset any user's password from the View All Users page.
-
-
 
 
 
