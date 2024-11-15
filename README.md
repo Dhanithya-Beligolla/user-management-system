@@ -68,7 +68,7 @@ Follow these steps to set up the project:
 
 ### 1. Access phpMyAdmin
 
-- Open your web browser and navigate to `http://localhost/phpmyadmin/`.
+- Open your web browser and navigate to `(http://localhost/phpmyadmin/)`.
 
 ### 2. Create a New Database
 
